@@ -1,0 +1,30 @@
+# Basic
+pandas==1.5.3         
+streamlit==1.25.0  
+torch==2.0.0         
+transformers==4.33.0 
+numpy==1.23.5        
+
+# Profiling and optimization
+torch-tensorrt==1.0.0  
+torchvision==0.15.0    
+rocm-profiler==2.0.0   
+nvidia-pyindex==1.0.9  
+nvidia-tensorrt==8.6.0 
+
+# API
+fastapi==0.95.1       
+uvicorn==0.22.0       
+docker==6.1.2         
+
+# Visualization and monitoring
+matplotlib==3.7.2     
+tensorboard==2.13.0      
+
+# Development and testing
+pytest==7.4.0         
+black==23.7.0         
+flake8==6.1.0         
+
+# Version control compatibility
+protobuf==3.20.3      

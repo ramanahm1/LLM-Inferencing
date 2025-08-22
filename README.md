@@ -11,16 +11,20 @@
 
 2. Step 2:
     Monitor the profile like you would on an IDE. Image shows different kernels invoked during execution.
-   ![Second Image](screenshots\nsight_kernel_1.png)
+   ![Second Image](https://github.com/ramanahm1/LLM-Inferencing/blob/main/screenshots/nsight_kernel_1.png)
 
 
 
 3. Step 3:
     Monitor output report for the kernel under consideration.
     
-    ![Third Image](screenshots\nsight_kernel_2.png)
+    ![Third Image](https://github.com/ramanahm1/LLM-Inferencing/blob/main/screenshots/nsight_kernel_2.png)
 
 4. Step 4:
     Check the Python GUI for the output of your code.
 
-    ![Fourth Image](screenshots\cmd_2.png)
+    ![Fourth Image](https://github.com/ramanahm1/LLM-Inferencing/blob/main/screenshots/cmd_2.png)
+
+
+# [WIP]
+- Uploading performance optimization scenarios 

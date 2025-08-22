@@ -7,7 +7,7 @@
 #### Part 1:
 1. Step 1:
     Load python exec path and python file path in the encircled regions and press launch.
-   ![First Image](screenshots\nsight_start.png)
+   ![First Image](https://github.com/ramanahm1/LLM-Inferencing/blob/main/screenshots/cmd_1.png)
 
 2. Step 2:
     Monitor the profile like you would on an IDE. Image shows different kernels invoked during execution.

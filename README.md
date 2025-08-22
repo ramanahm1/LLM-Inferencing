@@ -16,7 +16,7 @@
 3. Step 3:
     ![Third Image](https://github.com/ramanahm1/LLM-Inferencing/blob/main/screenshots/nsight_kernel_2.png)
 
-4. Python
+4. Step 4:
 
     ![Fourth Image](https://github.com/ramanahm1/LLM-Inferencing/blob/main/screenshots/cmd_2.png)
 
